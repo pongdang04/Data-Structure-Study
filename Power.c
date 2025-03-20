@@ -17,7 +17,16 @@ int PowerFunc_iter(int x, int n) {
 	return result;
 }
 
-int main() {
+
+int PowerFunc_recur2(int x, int n) {
+	if (n == 1)
+		return x;
+	else if (n % 2 == 1)
+		return x * (PowerFunc_recur2(x * x, (n - 1) / 2));
+	else
+		return PowerFunc_recur2(x * x, n / 2);
+}
+/*int main() {
 	int result1, result2;
 	
 	result1 = PowerFunc_recur(2, 10);
@@ -25,4 +34,4 @@ int main() {
 
 	printf("2^10 = %d(with recursive func)\n", result1);
 	printf("2^10 = %d(with iterative func)\n", result2);
-}
+}*/

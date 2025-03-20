@@ -127,8 +127,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ArrayBasedList.c" />
+    <ClCompile Include="BinaryNumber.c" />
     <ClCompile Include="Factorial.c" />
     <ClCompile Include="Fibonacci sequence.c" />
+    <ClCompile Include="Hannoi.c" />
+    <ClCompile Include="Polynomial.c" />
     <ClCompile Include="Power.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

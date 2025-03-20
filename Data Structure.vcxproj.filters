@@ -16,6 +16,9 @@
     <Filter Include="소스 파일\Recursion Func">
       <UniqueIdentifier>{5262e14a-8942-4e3a-aced-54cbe00a0f65}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\LIst">
+      <UniqueIdentifier>{1f657cb9-8f2c-499d-9827-fb5bf8d72032}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Fibonacci sequence.c">
@@ -26,6 +29,18 @@
     </ClCompile>
     <ClCompile Include="Power.c">
       <Filter>소스 파일\Recursion Func</Filter>
+    </ClCompile>
+    <ClCompile Include="Hannoi.c">
+      <Filter>소스 파일\Recursion Func</Filter>
+    </ClCompile>
+    <ClCompile Include="BinaryNumber.c">
+      <Filter>소스 파일\Recursion Func</Filter>
+    </ClCompile>
+    <ClCompile Include="Polynomial.c">
+      <Filter>소스 파일\Recursion Func</Filter>
+    </ClCompile>
+    <ClCompile Include="ArrayBasedList.c">
+      <Filter>소스 파일\LIst</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
