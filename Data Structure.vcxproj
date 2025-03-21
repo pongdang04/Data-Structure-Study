@@ -132,6 +132,7 @@
     <ClCompile Include="Factorial.c" />
     <ClCompile Include="Fibonacci sequence.c" />
     <ClCompile Include="Hannoi.c" />
+    <ClCompile Include="NodeBasedList.c" />
     <ClCompile Include="Polynomial.c" />
     <ClCompile Include="Power.c" />
   </ItemGroup>

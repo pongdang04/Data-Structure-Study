@@ -42,5 +42,8 @@
     <ClCompile Include="ArrayBasedList.c">
       <Filter>소스 파일\LIst</Filter>
     </ClCompile>
+    <ClCompile Include="NodeBasedList.c">
+      <Filter>소스 파일\LIst</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
