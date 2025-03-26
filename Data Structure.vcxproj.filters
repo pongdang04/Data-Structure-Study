@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\LIst">
       <UniqueIdentifier>{1f657cb9-8f2c-499d-9827-fb5bf8d72032}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Assignment">
+      <UniqueIdentifier>{b0b122e3-4496-4de7-ba7f-3b9954887585}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Fibonacci sequence.c">
@@ -44,6 +47,21 @@
     </ClCompile>
     <ClCompile Include="NodeBasedList.c">
       <Filter>소스 파일\LIst</Filter>
+    </ClCompile>
+    <ClCompile Include="Assingment1.c">
+      <Filter>소스 파일\Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="0326_1.c">
+      <Filter>소스 파일\Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="0326_2.c">
+      <Filter>소스 파일\Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="0326_3.c">
+      <Filter>소스 파일\Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="0326_4.c">
+      <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

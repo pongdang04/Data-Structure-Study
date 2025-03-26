@@ -127,7 +127,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="0326_1.c" />
+    <ClCompile Include="0326_2.c" />
+    <ClCompile Include="0326_3.c" />
+    <ClCompile Include="0326_4.c" />
     <ClCompile Include="ArrayBasedList.c" />
+    <ClCompile Include="Assingment1.c" />
     <ClCompile Include="BinaryNumber.c" />
     <ClCompile Include="Factorial.c" />
     <ClCompile Include="Fibonacci sequence.c" />

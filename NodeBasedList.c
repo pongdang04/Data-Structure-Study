@@ -1,4 +1,4 @@
-#include<stdio.h>
+/*#include<stdio.h>
 
 typedef int LData;
 
@@ -61,4 +61,4 @@ LData LRemove(List* plist) {
 	plist->cur = plist->before;
 
 	return data;
-}
+}*/
